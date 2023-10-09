@@ -3,7 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sam2003j&label=Profile%20views&color=0e75b6&style=flat" alt="sam2003j" /> </p>
 
-- 📫 How to reach me **sam20jam@gmail.com**
+- 👨‍💻 All of my projects are available at [https://samiksha-jamankar.netlify.app/](https://samiksha-jamankar.netlify.app/)
+
+- 📫 How to reach me **samm2003j@gmail.com**
+
+- ⚡ Fun fact **Up for an epic eat-off?**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
