@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Samiksha</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sam2003j&label=Profile%20views&color=0e75b6&style=flat" alt="sam2003j" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://samiksha-jamankar.netlify.app/](https://samiksha-jamankar.netlify.app/)
 
